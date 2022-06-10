@@ -6,7 +6,7 @@ summary: "As the usage of a model for training reinforcement learning algorithms
 
 ### Comparison with "traditional" simulation models
 
-{% include note.html content="For the purpose of this explanation, a "traditional" simulation model refers to a typical AnyLogic model built without RL in mind. " %}
+{% include note.html content="For the purpose of this explanation, a 'traditional' simulation model refers to a typical AnyLogic model built without RL in mind. " %}
 
 Some qualities of a traditional simulation model:
 
